@@ -1,0 +1,32 @@
+{
+  "short_name": "moresa",
+  "name": "محمدرضا سردشتی",
+  "icons": [
+    {
+      "src": "./favicons/favicon32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicons/favicon64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicons/favicon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicons/favicon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "این سایت به آموزش طراحی و برنامه‌نویسی وبسایت با زبان سی‌شارپ و دات‌نت می‌پردازد. مقالات تخصصی در حوزه برنامه‌نویسی و طراحی وب برای علاقه‌مندان منتشر می‌شود."
+}

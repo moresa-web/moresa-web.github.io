@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow unnecessary directories
+Disallow: /admin/
+
+# Sitemap link
+Sitemap: https://moresa-web.ir/sitemap.xml
