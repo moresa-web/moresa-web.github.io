@@ -1,0 +1,17 @@
+{
+  "short_name": "طلا فروشی",
+  "name": "طلا فروشی",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "275x275",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#cfa06e",
+  "background_color": "#ffffff",
+  "description": "فروشگاه فروش طلا"
+}

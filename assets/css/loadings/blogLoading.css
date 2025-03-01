@@ -1,0 +1,68 @@
+/* ساختار مشابه بلاگ اصلی */
+.loading {
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #ededed;
+}
+
+/* شبیه‌سازی تصویر اصلی بلاگ */
+.loading-image {
+  width: 100%;
+  height: 300px; /* در صورت نیاز می‌توانید این مقدار را تنظیم کنید */
+  background-color: #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 24px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* شبیه‌سازی بخش متا */
+.loading-meta .loading-line {
+  height: 16px;
+  width: 40%;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* شبیه‌سازی عنوان */
+.loading-title .title-line {
+  height: 32px;
+  width: 70%;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  margin-bottom: 13px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* شبیه‌سازی متن */
+.loading-text .loading-line {
+  height: 20px;
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* شبیه‌سازی دکمه ادامه مطلب */
+.loading-button {
+  width: 120px;
+  height: 40px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+/* انیمیشن فید */
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}

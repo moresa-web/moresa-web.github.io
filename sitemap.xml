@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Blog Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/blog</loc>
+    <lastmod>2024-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Product Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/product</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/contact</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/about</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Cart Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/cart</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Auth Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/auth</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Account Dashboard Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/account/dashboard</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Account Profile Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/account/profile</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
