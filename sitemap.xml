@@ -50,6 +50,14 @@
     <priority>0.5</priority>
   </url>
 
+  <!-- Checkout Page -->
+  <url>
+    <loc>https://allnattjewelry.ir/checkout</loc>
+    <lastmod>10/29/2024</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
   <!-- Auth Page -->
   <url>
     <loc>https://allnattjewelry.ir/auth</loc>
