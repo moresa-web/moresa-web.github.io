@@ -2959,7 +2959,7 @@
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        background-image: url(../images/backgound/B1.webp);
+        background-image: url(/assets/images/backgound/B1.png);
         background-size: cover;
         -webkit-box-pack: justify;
         -ms-flex-pack: justify;
@@ -3027,7 +3027,7 @@
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        background-image: url(../images/backgound/B3.webp);
+        background-image: url(/assets/images/backgound/B1.png);
         background-size: cover;
         border: 1px solid #d7e1e6;
     }
@@ -3104,7 +3104,7 @@
         margin-top: 30px;
         overflow: hidden;
         position: relative;
-        background-image: url(../images/backgound/B2.webp);
+        background-image: url(/assets/images/backgound/B2.png);
         background-size: cover;
     }
 
